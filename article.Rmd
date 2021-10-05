@@ -1,0 +1,63 @@
+---
+title: "CSPS"
+subtitle: "Sous-titre"
+author: "Nicolas Bressoud"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+lang: fr
+toc-title: "Table des matières"
+output: 
+  bookdown::word_document2:
+    toc: true
+    reference_docx: "template/template.docx"
+  bookdown::html_document2:
+    toc: true
+  bookdown::pdf_document2:
+    keep_tex: true
+bibliography: lib.bib
+csl: apa.csl
+---
+
+consignes :
+
+- 18'000 signes
+
+titre
+
+auteurs
+
+affiliations
+
+
+Résumé
+
+
+
+## partie 1
+1- Problématisation :
+
+- pédagogie spécialisée → inclusion → interdépendances (enjeux relationnels, climat de classe) et questionne l'autonomie de la personne et son pouvoir d'agir → comment nourrir les relations et développer le pouvoir d'agir ?
+- macro au micro : suisse, CH romande, établissement scolaire, classe, individus.
+- [ ]  mettre un joli schéma qui présente les enjeux, c'est-à-dire les zones de tensions crées par la situation d'intégration scolaire
+
+2- Cadre riche pour trouver des pistes : la psychologie positive
+
+- définir
+- historique court
+- en éducation ? éducation positive
+- oui mais...
+
+3- et.... en éducation spécialisée : les relations pour le développement du pouvoir d'agir
+
+- en éducation spécialisée ? quelles perspectives ? Michael Wehmeyer, Ryan Niemiec, etc.
+- la TAD et JP Durand
+
+4- Exemples de pratiques qui semblent gagnantes
+
+- gratitude :  exemples pratiques ou/et recherches scientifiques en ES
+- forces : exemples pratiques ou/et recherches scientfiques en ES
+- compétences émotionnelles : exemples pratiques ou/et recherches scientifiques en ES
+
+5- Conclusion
+
+- focalisation sur le potentiel mis en action avec la PP.
+## Références

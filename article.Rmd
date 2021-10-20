@@ -2,7 +2,7 @@
 title: "Article commandé par la revue du CSPS"
 subtitle: "thématique spécifique sur la psychologie positive en pédagogie spécialisée"
 author: "Philippe Gay et Nicolas Bressoud"
-date: "mis à jour le `r format(Sys.time(), '%d %B %Y')`"
+date: "mis à jour le `r format(Sys.time(), '%d.%m.%Y')`"
 lang: fr
 toc-title: "Table des matières"
 output: 
@@ -21,22 +21,69 @@ csl: apa.csl
 
 ## consignes : {-}
 
-- 18'000 signes
+- 18'000 signes (espaces compris)
+- une quinzaine de références max
 
 ## titre proposé par les auteurs : {-}
 
+Apports de la psychologie positive au domaine de la pédagogie spécialisée
+
 ## auteurs : {-}
+
+Philippe Gay^1^
+Nicolas Bressoud^2,3^
 
 ## affiliations : {-}
 
+1. Haute École pédagogique du canton de Vaud, Lausanne
+2. Haute École pédagogique du canton du Valais, site de St-Maurice
+3. chEERS lab, institut de pédagogie curative, UNIFR, Fribourg
 
-# Résumé {-}
+# Résumé (500 à 600 signes) {-}
 
+<!-- VERSION LONGUE -->
+<!-- Les pratiques scolaires inclusives mettent à jour les enjeux relationnels dans l'épanouissement des enfants. -->
+<!-- La classe devient un contexte impactant durablement le développement des compétences psychosociales de toutes et tous. -->
+<!-- Elle est un lieu ou le pouvoir d'agir de chaque personne peut éclore ...ou se figer. -->
+<!-- En cherchant à comprendre les déterminants de l'épanouissement des personnes, des groupes ou des institutions, la psychologie positive peut être un champ à explorer.  -->
+<!-- Elle permet en partiulier de mieux comprendre les déterminants de l'épanouissement liés aux relations interpersonnelles. -->
+<!-- Elle propose différents programmmes d'intervention qui visent notamment à favoriser les interdépendances positives dans le groupe et le développement de l'autonomie de chaque personne. -->
+<!-- Les projets d'études concernant l'inclusion scolaire et les apports des modèles de psychologie positive méritent une attention particulière en pédagogie spécialisée. -->
 
+<!-- VERSION ADAPTEE -->
+Les pratiques scolaires inclusives mettent à jour les enjeux liés au développement de relations épanouissantes et au pouvoir d'agir des jeunes à besoins éducatifs particuliers.
+En cherchant à comprendre les déterminants de l'épanouissement des personnes, des groupes ou des institutions, la psychologie positive peut être un champ à explorer afin de mieux identifier les freins ou levier à de tels développements.
+A travers cet article, nous proposons de clarifier en quoi précisément la psychologie positive peut soutenir la réalisation des aspects sociaux de l'inclusion scolaire.
+
+# Mots-clés {-}
+
+épanouissement, pouvoir d'agir, psychologie positive, inclusion scolaire, climat scolaire.
 
 # Article {-}
 
 # Introduction 
+
+Le concordat intercantonal sur la pédagogie spécialisée favorise le déploiement de politiques intégratives en Suisse **SOURCE niv 2**.
+Chaque canton progresse ainsi peu à peu dans la mise en œuvre de principes ayant une influence relativement grande sur le climat scolaire.
+Constitué des perceptions des relations interindividuelles de ses acteurs, le climat scolaire va ainsi restituer partiellement mais fidèlement la qualité de tout projet d'inclusion **SOURCE niv 1**.
+Si le projet d'inclusion se passe bien, nous pouvons en effet parier que cela fera écho à travers le climat de la classe ou de l'établissement.
+La raison en est que l'inclusion scolaire implique de facto une interdépendance de tous les acteurs, qu'ils soient enseignants, parents, élèves avec ou sans besoins éducatifs particuliers.
+Penser ce tissu relationnel, dans une perspective systémique, facilite la compréhension de ce défi passionnant (et journalier) que peut constituer une intégration réussie.
+Ainsi, un climat scolaire positif, dans le contexte de l'inclusion, peut être celui qui caracrétise une classe où chaque élève se sent reconnu dans son identité et participe pleinement à la vie scolaire.
+
+Si une inclusion réussie influence le climat scolaire, la réciproque est aussi vraie : c'est parce que le climat de classe est positif que l'intégration scolaire se passe bien.
+Cela peut être le cas, par exenmple, dans une classe où les élèves ont développé peu à peu des interdépendances positives entretenues par l'enseignant.
+On pourra alors considérer cette classe bien outillée pour appréhender l'expérience de la diversité humaine à traver un futur projet d'intégration scolaire.
+
+Cette dialectique entre climat et inclusion a bien évidemment pour principe actif la question des relations entre acteurs : élèves et enseignants du groupe-classe pour l'essentiel. 
+Des relations dites positives vont être le lieu où chaque enfant avec ou sans besoins éducatifs particuliers va développer des sentiments d'affiliation, de compétence et d'autonomie, au sens du pouvoir d'agir ou d'*empowerment* **SOURCE niv 1**.
+
+<!-- Développer la TAD rapidos ici. Puis go sur PP. et Forces. Pis voilà. -->
+
+
+
+
+
 
 1- Problématisation :
 

@@ -1,8 +1,8 @@
 ---
-title: "CSPS"
-subtitle: "Sous-titre"
-author: "Nicolas Bressoud"
-date: "`r format(Sys.time(), '%d %B %Y')`"
+title: "Article commandé par la revue du CSPS"
+subtitle: "thématique spécifique sur la psychologie positive en pédagogie spécialisée"
+author: "Philippe Gay et Nicolas Bressoud"
+date: "mis à jour le `r format(Sys.time(), '%d %B %Y')`"
 lang: fr
 toc-title: "Table des matières"
 output: 
@@ -17,22 +17,27 @@ bibliography: lib.bib
 csl: apa.csl
 ---
 
-consignes :
+# Données {-}
+
+## consignes : {-}
 
 - 18'000 signes
 
-titre
+## titre proposé par les auteurs : {-}
 
-auteurs
+## auteurs : {-}
 
-affiliations
-
-
-Résumé
+## affiliations : {-}
 
 
+# Résumé {-}
 
-## partie 1
+
+
+# Article {-}
+
+# Introduction 
+
 1- Problématisation :
 
 - pédagogie spécialisée → inclusion → interdépendances (enjeux relationnels, climat de classe) et questionne l'autonomie de la personne et son pouvoir d'agir → comment nourrir les relations et développer le pouvoir d'agir ?
@@ -60,4 +65,6 @@ Résumé
 5- Conclusion
 
 - focalisation sur le potentiel mis en action avec la PP.
-## Références
+
+# Références
+

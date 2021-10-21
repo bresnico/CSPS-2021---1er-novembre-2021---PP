@@ -52,7 +52,7 @@ Nicolas Bressoud^2,3^
 
 <!-- VERSION ADAPTEE -->
 Les pratiques scolaires inclusives mettent à jour les enjeux liés au développement de relations épanouissantes et au pouvoir d'agir des jeunes à besoins éducatifs particuliers.
-En cherchant à comprendre les déterminants de l'épanouissement des personnes, des groupes ou des institutions, la psychologie positive peut être un champ à explorer afin de mieux identifier les freins ou levier à de tels développements.
+En cherchant à comprendre les déterminants de l'épanouissement des personnes, des groupes ou des institutions, la psychologie positive peut être un champ à explorer afin de mieux identifier les freins ou leviers à de tels développements.
 A travers cet article, nous proposons de clarifier en quoi précisément la psychologie positive peut soutenir la réalisation des aspects sociaux de l'inclusion scolaire.
 
 # Mots-clés {-}
@@ -65,21 +65,61 @@ A travers cet article, nous proposons de clarifier en quoi précisément la psyc
 
 Le concordat intercantonal sur la pédagogie spécialisée favorise le déploiement de politiques intégratives en Suisse **SOURCE niv 2**.
 Chaque canton progresse ainsi peu à peu dans la mise en œuvre de principes ayant une influence relativement grande sur le climat scolaire.
+
+## Les relations comme principe actif du climat scolaire
+
 Constitué des perceptions des relations interindividuelles de ses acteurs, le climat scolaire va ainsi restituer partiellement mais fidèlement la qualité de tout projet d'inclusion **SOURCE niv 1**.
 Si le projet d'inclusion se passe bien, nous pouvons en effet parier que cela fera écho à travers le climat de la classe ou de l'établissement.
 La raison en est que l'inclusion scolaire implique de facto une interdépendance de tous les acteurs, qu'ils soient enseignants, parents, élèves avec ou sans besoins éducatifs particuliers.
 Penser ce tissu relationnel, dans une perspective systémique, facilite la compréhension de ce défi passionnant (et journalier) que peut constituer une intégration réussie.
-Ainsi, un climat scolaire positif, dans le contexte de l'inclusion, peut être celui qui caracrétise une classe où chaque élève se sent reconnu dans son identité et participe pleinement à la vie scolaire.
+Ainsi, un climat scolaire positif, dans le contexte de l'inclusion, peut être celui qui caracrétise une classe où chaque élève, avec ou sans besoins éducatifs particuliers, se sent reconnu dans son identité et participe pleinement à la vie scolaire.
 
 Si une inclusion réussie influence le climat scolaire, la réciproque est aussi vraie : c'est parce que le climat de classe est positif que l'intégration scolaire se passe bien.
-Cela peut être le cas, par exenmple, dans une classe où les élèves ont développé peu à peu des interdépendances positives entretenues par l'enseignant.
+Cela peut être le cas, par exemple, dans une classe où les élèves ont développé peu à peu des interdépendances positives entretenues par l'enseignant.
 On pourra alors considérer cette classe bien outillée pour appréhender l'expérience de la diversité humaine à traver un futur projet d'intégration scolaire.
 
 Cette dialectique entre climat et inclusion a bien évidemment pour principe actif la question des relations entre acteurs : élèves et enseignants du groupe-classe pour l'essentiel. 
-Des relations dites positives vont être le lieu où chaque enfant avec ou sans besoins éducatifs particuliers va développer des sentiments d'affiliation, de compétence et d'autonomie, au sens du pouvoir d'agir ou d'*empowerment* **SOURCE niv 1**.
+Des relations dites positives vont être le lieu où chaque enfant, avec ou sans besoins éducatifs particuliers, va nourrir trois besoins psychologiques fondamentaux : les besoins d'affiliation, de compétence et d'autonomie, au sens du pouvoir d'agir ou d'*empowerment* **SOURCE niv 1**.
 
-<!-- Développer la TAD rapidos ici. Puis go sur PP. et Forces. Pis voilà. -->
+## La théorie de l'autodétermination pour comprendre les enjeux
 
+Ces trois besoins psychologiques sont bien référencés dans la théorie de l'autodétermination (TAD).
+La TAD est vue comme une théorie de la motivation.
+Cependant, elle est aussi considérée comme pertinente pour questionner le bien-être ou l'épanouissement des individus.
+Parmi les trois besoins, celui qui concerne l'affiliation indique l'importance, pour chaque enfant, de se sentir appartenir au groupe et d'avoir la possibilité de participer.
+Le besoin de compétence précise que les enfants, quelque soit l'hétérogénéité de la classe, souhaitent fondamentalement développer des habiletés ou progresser en regard de buts stimulants et raisonnables. Le troisième besoin, celui d'autonomie, nous rappelle que les élèves ne peuvent pas s'épanouir dans un contexte strictement fermé et contrôlant, sans possibilités d'opérer des choix.
+
+# Favoriser les interdépendances positives et le pouvoir d'agir
+
+Dans notre propos, le développement des relations positives peut être caractérisé par des interdépendances positives et un pouvoir d'agir des élèves.
+Les relations entre pairs et avec l'enseignant vont essentiellement caractériser le climat de la classe. 
+Et, nous l'avons vu, la qualité du climat pourra être un bon prédicteur de la qualité de l'intégration scolaire.
+Si le principe actif reste les relations, et considérant les connexions avec les trois besoins psychologiques fondamentaux de la TAD, il peut être pertinent de réfléchir à leur développement à travers :
+- les interdépendances positives
+- le pouvoir d'agir
+
+## Apports de la psychologie positive
+
+Formalisée à la fin du siècle dernier, la psychologie positive se définit comme l'étude des processus et conditions utiles au fonctionnement optimal ou à l'épanouissement des personnes, des groupes ou des institutions **SOURCE niv 1**.
+Ayant vécu déjà trois vagues de développement dans sa courte existence et n'en déplaise aux critiques récurrentes, la psychologie positive ne saurait se réduire à une science du bonheur ou à un prétendu recueil d'injonctions à vivre uniquement des émotions agréables dans un monde résilient.
+
+## Psychologie positive et école
+
+Ce courant de recherche se donne ainsi pour objectif de mieux comprendre et impacter les variables jouant un rôle dans l'épanouissement humain.
+En cherchant à différencier une *bonne vie* d'une vie *confortable*, il offre peu à peu des outils permettant de mesurer et mieux saisir la place et le rôle des émotions, des relations, de l'attention ou encore des pensées dans le fonctionnement humain.
+En contexte scolaire, la psychologie positive va alors proposer, via ce que le monde anglo-saxon nomme la *positive education*, une prise en compte simultanée du développement du bien-être des élèves et de leurs compétences scolaires**SOURCE niv 1**.
+Autrement dit, sous la houlette d'une cohorte grandissante d'équipes de recherche, la psychologie positive propose de mieux comprendre, mesurer et développer deux propositions centrales de la *positive education* :
+- un élève heureux apprend mieux ;
+- être heureux s'apprend (aussi à l'école).
+
+## interdépendances et pouvoir d'agir : quelques exemples
+
+La question de l'épanouissement - apprendre à être heureux - peut être balisée à travers les trois besoins psychologiques fondamentaux présentés au sein de la TAD, nous l'avons vu.
+
+
+# Le cas des forces de caractères
+
+# Conclusion
 
 
 
@@ -115,3 +155,11 @@ Des relations dites positives vont être le lieu où chaque enfant avec ou sans 
 
 # Références
 
+<!-- A mettre dans l'article : -->
+<!-- - démocratie sanitaire Bressoud et al 2020 -->
+<!-- - Gable et Haidt -->
+<!-- - Du Prud'Homme -->
+<!-- - Du Ramel -->
+<!-- - Du Wehmeyer -->
+<!-- - un truc de type métaanalyse qui montre la pertinence de la PP à l'école (Elena) -->
+<!-- - seligman flourish -->

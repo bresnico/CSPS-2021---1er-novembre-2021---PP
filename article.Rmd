@@ -19,21 +19,21 @@ csl: apa.csl
 
 # Données {-}
 
-## consignes : {-}
+## Consignes : {-}
 
 - 18'000 signes (espaces compris)
 - une quinzaine de références max
 
-## titre proposé par les auteurs : {-}
+## Titre proposé par les auteurs : {-}
 
 Apports de la psychologie positive au domaine de la pédagogie spécialisée
 
-## auteurs : {-}
+## Auteurs : {-}
 
 Philippe Gay^1^
 Nicolas Bressoud^2,3^
 
-## affiliations : {-}
+## Affiliations : {-}
 
 1. Haute École pédagogique du canton de Vaud, Lausanne
 2. Haute École pédagogique du canton du Valais, site de St-Maurice
@@ -63,12 +63,13 @@ A travers cet article, nous proposons de clarifier en quoi précisément la psyc
 
 # Introduction 
 
-Le concordat intercantonal sur la pédagogie spécialisée favorise le déploiement de politiques intégratives en Suisse **SOURCE niv 2**.
+Le concordat intercantonal sur la pédagogie spécialisée favorise le déploiement de politiques intégratives en Suisse.
 Chaque canton progresse ainsi peu à peu dans la mise en œuvre de principes ayant une influence relativement grande sur le climat scolaire.
+L'affaire n'est pas réglée et les enjeux restent importants au niveaux cantonal, national voire international [voir notamment @kalubi2017]
 
 ## Les relations comme principe actif du climat scolaire
 
-Constitué des perceptions des relations interindividuelles de ses acteurs, le climat scolaire va ainsi restituer partiellement mais fidèlement la qualité de tout projet d'inclusion **SOURCE niv 1**.
+Constitué des perceptions des relations interindividuelles de ses acteurs, le climat scolaire va ainsi restituer partiellement mais fidèlement la qualité de tout projet d'inclusion [@bressoud2021].
 Si le projet d'inclusion se passe bien, nous pouvons en effet parier que cela fera écho à travers le climat de la classe ou de l'établissement.
 La raison en est que l'inclusion scolaire implique de facto une interdépendance de tous les acteurs, qu'ils soient enseignants, parents, élèves avec ou sans besoins éducatifs particuliers.
 Penser ce tissu relationnel, dans une perspective systémique, facilite la compréhension de ce défi passionnant (et journalier) que peut constituer une intégration réussie.
@@ -76,10 +77,10 @@ Ainsi, un climat scolaire positif, dans le contexte de l'inclusion, peut être c
 
 Si une inclusion réussie influence le climat scolaire, la réciproque est aussi vraie : c'est parce que le climat de classe est positif que l'intégration scolaire se passe bien.
 Cela peut être le cas, par exemple, dans une classe où les élèves ont développé peu à peu des interdépendances positives entretenues par l'enseignant.
-On pourra alors considérer cette classe bien outillée pour appréhender l'expérience de la diversité humaine à traver un futur projet d'intégration scolaire.
+On pourra alors considérer cette classe bien outillée pour appréhender l'expérience de la diversité humaine à traver un futur projet d'intégration scolaire [voir p.ex., @prudhomme2017].
 
 Cette dialectique entre climat et inclusion a bien évidemment pour principe actif la question des relations entre acteurs : élèves et enseignants du groupe-classe pour l'essentiel. 
-Des relations dites positives vont être le lieu où chaque enfant, avec ou sans besoins éducatifs particuliers, va nourrir trois besoins psychologiques fondamentaux : les besoins d'affiliation, de compétence et d'autonomie, au sens du pouvoir d'agir ou d'*empowerment* **SOURCE niv 1**.
+Des relations dites positives vont être le lieu où chaque enfant, avec ou sans besoins éducatifs particuliers, va nourrir trois besoins psychologiques fondamentaux : les besoins d'affiliation, de compétence et d'autonomie, au sens du pouvoir d'agir ou d'*empowerment* [@bressoud2020a].
 
 ## La théorie de l'autodétermination pour comprendre les enjeux
 
@@ -100,66 +101,114 @@ Si le principe actif reste les relations, et considérant les connexions avec le
 
 ## Apports de la psychologie positive
 
-Formalisée à la fin du siècle dernier, la psychologie positive se définit comme l'étude des processus et conditions utiles au fonctionnement optimal ou à l'épanouissement des personnes, des groupes ou des institutions **SOURCE niv 1**.
+Formalisée à la fin du siècle dernier, la psychologie positive se définit comme l'étude des processus et conditions utiles au fonctionnement optimal ou à l'épanouissement des personnes, des groupes ou des institutions [@gable2005].
 Ayant vécu déjà trois vagues de développement dans sa courte existence et n'en déplaise aux critiques récurrentes, la psychologie positive ne saurait se réduire à une science du bonheur ou à un prétendu recueil d'injonctions à vivre uniquement des émotions agréables dans un monde résilient.
 
 ## Psychologie positive et école
 
 Ce courant de recherche se donne ainsi pour objectif de mieux comprendre et impacter les variables jouant un rôle dans l'épanouissement humain.
 En cherchant à différencier une *bonne vie* d'une vie *confortable*, il offre peu à peu des outils permettant de mesurer et mieux saisir la place et le rôle des émotions, des relations, de l'attention ou encore des pensées dans le fonctionnement humain.
-En contexte scolaire, la psychologie positive va alors proposer, via ce que le monde anglo-saxon nomme la *positive education*, une prise en compte simultanée du développement du bien-être des élèves et de leurs compétences scolaires**SOURCE niv 1**.
-Autrement dit, sous la houlette d'une cohorte grandissante d'équipes de recherche, la psychologie positive propose de mieux comprendre, mesurer et développer deux propositions centrales de la *positive education* :
+En contexte scolaire, la psychologie positive va alors proposer, via ce que le monde anglo-saxon nomme la *positive education*, une prise en compte simultanée du développement du bien-être des élèves et de leurs compétences scolaires [@seligman2011, @suldo2016a].
+Autrement dit, sous la houlette d'une cohorte grandissante d'équipes de recherche, la psychologie positive propose de mieux comprendre, mesurer et développer deux propositions centrales de la *positive education* [@white2015c]:
+
 - un élève heureux apprend mieux ;
 - être heureux s'apprend (aussi à l'école).
 
-## interdépendances et pouvoir d'agir : quelques exemples
+## Interdépendances et pouvoir d'agir : deux exemples en contexte intégratif
 
 La question de l'épanouissement - apprendre à être heureux - peut être balisée à travers les trois besoins psychologiques fondamentaux présentés au sein de la TAD, nous l'avons vu.
+Dans ce cadre, les relations interpersonnelles jouent un rôle précieux.
+Elles peuvent être nourries par le renforcement des interdépendances positives et du pouvoir d'agir des personnes.
 
+Il y a lieu d'observer, dans les parties suivantes, comment des modèles issus de la psychologie positive peuvent de décliner dans les classes intégratives.
+Nous veillerons, dans chaque cas, à préciser leur impact sur les interdépendances et le pouvoir d'agir des élèves.
 
-# Le cas des forces de caractères
+### Pratiques de gratitude
+
+Une première série d'exemples concerne les pratiques de gratitude [@shankland2016a].
+Différentes études, dans et en-dehors du champ scolaire semblent indiquer que l'entraînement à réaliser des actions de gratitude a un effet sur le sentiment de connexion avec autrui [voir p.ex., @emmons2011].
+
+En classe, cela se concrétise par des activités pédagogiques au sein desquelles les élèves apprennent peu à peu à orienter leur attention sur les petits événements du quotidien par lesquels ils pourraient ressentir une émotion de gratitude.
+Les enseignants peuvent ainsi utiliser différents matériaux didactiques comme : un bocal, un panneau de classe ou encore un carnet personnel avec lesquels chaque élève s'essaie, jour après jour, à recenser des événements-clés.
+
+En général, les enseignants ont une formation pour réaliser ce type d'intervention et la maintenir dans le temps.
+Le risque est grand que les élèves s'en lassent si la récolte d'événements tourne à une activité vidée de son sens.
+Avec le temps toutefois, les élèves apprennent à reconnaître de plus en plus facilement le rôle que chaque membre du groupe peut jouer.
+
+En ce qui concerne les interdépendances et le pouvoir d'agir, ils prennent conscience de l'importance des petits gestes de soutien, de solidarité ou d'amitié entre enfants.
+Ils apprennent à les valoriser au sein des relations entre enfants.
+Bien plus qu'une question de politesse, les enfants se rendent compte que l'attitude de leurs camrades - ainsi que leur propre attitude - à un impact positif dans leurs relations et leur propre épanouissement en classe.
+
+<!-- donner des exemples de consignes ou un truc du genre L'enseignant dira, l'élève remarquera, avec du jus du réel. -->
+
+### Régulation des émotions
+
+Une seconde série d'exemple concerne les activités sur la régulation des émotions [@gay2017a].
+Issues des sciences affectives, et reprise en psychologie positive, les modèles de compréhension des émotions nous permettent de considérer un élément-clé de nos vies affectives : gérer ses émotions s'apprend.
+Dit autrement, cela s'enseigne.
+
+En classe, on aura ainsi des moyens importants pour aider les élèves à mieux communiquer leurs émotions dans une situation de conflit, par exemple.
+Mieux encore, en apprenant aux enfants à reconnaître des stratégies adaptées ou inadaptées de régulation des émotions, les enseignants permettront à leur public de mieux se connaître les uns les autres et d'apprivoiser les réactions de chacun.
+Différentes activités pédagogiques en découlent.
+Par exemple, en permettant aux enfants de jouer des saynètes, les enseignants peuvent leur faire expérimenter plusieurs manières de gérer un coup de colère : réévaluer la situation (dédramatiser), focaliser son attention sur quelque chose d'apaisant, patienter en respirer consciemment avant de s'exprimer, ...
+Dans chaque cas, les élèves peuvent imaginer quelle stratégie mettre en œuvre en toute sécurité, jusqu'à la prochaine situation réelle.
+D'autres activités comme la roue des émotions, le volcan des émotions ou le coin des émotions sont utilisées comme médiateurs externes pour guider l'enfant dans l'apprentissage de ses habiletés émotionnelles.
+
+Ces éléments sont certainement très bien connus dans l'enseignement spécialisé et particulièrement dans la prise en charge du trouble du spectre de l'autisme. 
+Une généralisation à l'ensemble de la classe semble tout à fait logique et même souhaitable.
+
+En apprenant à réguler leurs émotions, les élèves apprenennt à prendre soin des relations avec autrui. 
+Ils deviennent plus conscients de ce que l'autre peut ressentir.
+Ils différencient peu à peu l'émotion ressentie par autrui de sa manière de l'exprimer, ouvrant la voie à des pistes adaptées de réaction.
+Ces habiletés renforcent le sentiment d'appartenir au groupe, de dépendre positivement de lui et de pouvoir y jouer un rôle.
+
+<!-- donner des exemples de consignes ou un truc du genre L'enseignant dira, l'élève remarquera, avec du jus du réel. -->
+
+Nous proposons de développer à présent un dernier exemple.
+Il concerne la taxonomie des forces de caractère.
+Ceci semble d'autant plus intéressant dans le champ de la pédagogie spécialisée [voir notamment @wehmeyer2019a].
+Il nous paraît favoriser l'émergence de pratiques tout à fait adéquates dans le développement des interdépendances positives et le pouvoir d'agir des personnes.
+
+# Focus sur l'exemple des forces de caractère
+
+Une des applications de la psychologie positive qui semble très prometteuse dans le domaine de la pédagogie spécialisée est la taxonomie des forces de caractère, ou ressources personnelles [@peterson2004].
+A la base, les forces de caractère sont formulées via une liste de vingt-quatre traits de caractère considérés comme ayant un impact dans le développement et le bien-être des personnes.
+Ces traits de caractère sont plutôt stables dans le temps bien qu'ils soient dépendant du contexte dans lesquels ils s'expriment.
+En parlant de signature personnelle, on peut considérer que chaque enfant dispose de trois à cinq forces qui sortent du lot.
+On pourra ainsi identifier en classe un enfant qui fait souvent preuve de gentillesse, de prudence et de sens esthétique. Son voisin, dans son fonctionnement en classe, montrera plutôt de l'humour, une bonne intelligence sociale et un sens du leadership.
+
+En suivant le modèle des forces, on provoque un basculement majeur dans les relations entre élèves avec l'acceptation de trois postulats de plus en plus étayés par la recherche :
+
+- chaque enfant possède les vingt-quatre forces de caractère, avec plus ou moins d'intensité ;
+- les enfants manifestent naturellement certaines forces plus que d'autres ;
+- interpréter les comportements en termes de forces adaptées, surutilisés ou sous-utilisées est porteur de sens.
+
+Ce dernier point mérite une précision importante.
+Dans le cadre de la vie de la classe, penser les actions des élèves en termes d'utilisation des forces provoque une sortie complète de la logique "qualité ou défaut".
+Cette logique classique pose problème car elle enferme l'enfant avec des termes statiques et rigides qui ne favorisent pas le développement du pouvoir d'agir des personnes.
+Par exemple, dire d'un camarade qu'il est timide ou paresseux (plutôt orienté *défaut*), doué en maths ou intelligent (plutôt orienté *qualité*) contribue à catégoriser et figer les personnalités dans la classe.
+Pire encore, ces catégorisations tendent à déposséder l'enfant de son pouvoir d'agir en portant implicitement le message : "Tu es comme ça.".
+
+Sortir de cette logique "qualité-défaut" est un vrai avantage.
+Lorsque les élèves apprennent à reconnaître que "Lucas a fait preuve de persévérance durant l'évaluation de maths" ou que "Marie a montré beaucoup de gentillesse au vestiaire de la piscince quand elle a aidé sa voisine", ils identifient peu à peu leurs pairs en termes de ressources dynamiques qui apportent une plus-value au groupe.
+
+En contexte inclusif, il paraît dès lors tout à fait pertinent de sortir d'une logique figée de qualité-défaut pour entrer dans la prise en compte dynamique des forces en action des camarades [voir p.ex., @quinlan2018].
+Dans ce cadre, tous les élèves, avec ou sans besoins éducatifs particuliers, peuvent être reconnus dans les forces qui se cachent sous leurs différentes actions en interaction avec le groupe.
+
+En classe, l'enseignant apprendra ainsi aux élèves à reconnaître ce qu'est la manifestation d'une force à l'aide de trois indices : performance, plaisir, fréquence.
+Par exemple, un enfant qui aime régulièrement aller travailler avec des petits jetons de couleurs en les sériant patiemment, sous le regard attentif de ses camarades, peut manifester à ce moment un sens esthétique.
+Un autre enfant vers qui les copains viennent souvent demander conseil dans la résolution de conflits pour être reconnu pour son intelligence sociale.
+
+Parmi les activités que l'enseignant peut proposer pour stimuler l'observation et l'utilisation des forces en classe, on peut par exemple citer le détective des forces ou le conseil de coopération.
+Dans les deux cas, l'enseignant demande aux élèves de réfléchir à des situations passées et d'identifier les possibles forces derrière les comportements de leurs pairs.
+Les prises de conscience sont régulièrement flagrantes.
+Les élèves reconnaissent rapidement ce que chacun apporte au groupe, avec ou sans besoins éducatifs particuliers [@bressoud2018].
 
 # Conclusion
 
-
-
-
-
-1- Problématisation :
-
-- pédagogie spécialisée → inclusion → interdépendances (enjeux relationnels, climat de classe) et questionne l'autonomie de la personne et son pouvoir d'agir → comment nourrir les relations et développer le pouvoir d'agir ?
-- macro au micro : suisse, CH romande, établissement scolaire, classe, individus.
-- [ ]  mettre un joli schéma qui présente les enjeux, c'est-à-dire les zones de tensions crées par la situation d'intégration scolaire
-
-2- Cadre riche pour trouver des pistes : la psychologie positive
-
-- définir
-- historique court
-- en éducation ? éducation positive
-- oui mais...
-
-3- et.... en éducation spécialisée : les relations pour le développement du pouvoir d'agir
-
-- en éducation spécialisée ? quelles perspectives ? Michael Wehmeyer, Ryan Niemiec, etc.
-- la TAD et JP Durand
-
-4- Exemples de pratiques qui semblent gagnantes
-
-- gratitude :  exemples pratiques ou/et recherches scientifiques en ES
-- forces : exemples pratiques ou/et recherches scientfiques en ES
-- compétences émotionnelles : exemples pratiques ou/et recherches scientifiques en ES
-
-5- Conclusion
-
-- focalisation sur le potentiel mis en action avec la PP.
+Cet article vise donc à proposer une contribution de la psychologie positive au champ de la pédagogie spécialisée.
+Pour l'essentiel, la psychologie positive peut être vue comme un domaine florissant de modèles et pratiques permettant de réellement mettre en action des principes ou postulats favorisant une école inclusive.
+En axant les interventions pédagogiques autour du développemnent des interdépendances positives et du pouvoir d'agir des élèves, l'enseignant invesit pour des relations saines et durables en classe.
+C'est certainement un précieux atout pour développer un climat scolaire où il fait bon vivre dans une école qui considère la diversité humaine comme la norme.
 
 # Références
-
-<!-- A mettre dans l'article : -->
-<!-- - démocratie sanitaire Bressoud et al 2020 -->
-<!-- - Gable et Haidt -->
-<!-- - Du Prud'Homme -->
-<!-- - Du Ramel -->
-<!-- - Du Wehmeyer -->
-<!-- - un truc de type métaanalyse qui montre la pertinence de la PP à l'école (Elena) -->
-<!-- - seligman flourish -->
